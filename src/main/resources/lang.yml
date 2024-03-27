@@ -1,0 +1,89 @@
+#Inventories names
+main-gambling-title: "Gambling"
+waiting-gambling-title: "Gambling > Waiting"
+started-gambling-title: "Gambling > Playing"
+mode-title: "Gambling > Choice"
+launch-title: "Gambling > Start"
+pvp-kit-title: "Gambling > Choice > Kit PvP"
+bow-kit-title: "Gambling > Choice > Kit Bow"
+rod-kit-title: "Gambling > Choice > Kit Rod"
+
+
+#Main menu
+waiting-gambling-inv: "&aWaiting Gambling"
+waiting-gambling-lore:
+  - ""
+create-gambling-inv: "&aCreate Gambling"
+create-gambling-lore:
+  - "Salut"
+  - "Un autre"
+
+#Mode menu
+pvp-kit-inv: "&7Kit &aPvP"
+pvp-kit-lore:
+rod-kit-inv: "&7Kit &aRod"
+rod-kit-lore:
+bow-kit-inv: "&7Kit &aArc"
+bow-kit-lore:
+
+#Launch menu
+launch-inv: "&aLaunch the game"
+launch-lore:
+
+#Attente gambling menu
+started-game-inv: "&eStarted Games"
+started-game-lore:
+
+waiting-mode-lore: "&7Mode: &e {mode}"
+waiting-bet-lore: "&7Bet: &e{money}"
+waiting-fight-lore: "&7Click to fight &e&l{host}"
+
+#Started gambling menu
+
+started-mode-lore: "&7Mode: &e {mode}"
+started-bet-lore: "&7bet: &e {money}"
+started-fight-lore: "&e&l {host} &7against &e&l {joined}"
+started-last-lore: "&e&lCurrently fighting..."
+
+#all
+leave-inv: "&cBack"
+leave-lore:
+
+
+#erreurs
+not-enough-money: "&cYou don't have enough money ! "
+incorrect-number: "&cPut a correct number!"
+already-gambling-launched: "&cYou already have a waiting gambling! "
+cancel-gambling: "&cYou cancelled the gambling..."
+limit-time: "&cYou took to much time to answer"
+
+
+#Success messages
+gambling-created: "&fYou created a gambling, waiting for an opponent..."
+
+
+#Win message
+won-message: "&fYou won the &a&lgambling !"
+earned-message: "&e&lEarns: {money}"
+
+#Lost message
+lost-message: "&fYou lost the &a&lgambling ! "
+lost-money-message: "&e&lLoses: {money}"
+
+#stats message
+info-message: "&a&lInfo:"
+wins-message: "&7Wins:"
+loses-message: "&7Loses:"
+games-message: "&7Games: "
+
+#Hologram
+line-format: "{name} -> {wins} victoires"
+
+#other
+
+enemy-message: "Your enemy is  {player}"
+foot-message: "&eLeaderboard"
+min-max-message: "&6&lZirisMC &f&l» &fPut &bthe price &fyou want to &bbet\n\n
+                   &6Min bet &f&l» &e{min}$\n
+                   &6MMax bet &f&l» &e{max}$"
+not-correct-amount: "&cPlease enter valid price !"

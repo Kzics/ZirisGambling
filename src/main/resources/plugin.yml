@@ -1,0 +1,9 @@
+main: fr.zirisgambling.Main
+name: Gambling
+version: 1.0.0
+commands:
+  gambling:
+    description: Ouvre le menu gambling
+    aliases:
+      - duel
+      - duels

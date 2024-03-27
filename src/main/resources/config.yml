@@ -1,0 +1,15 @@
+playerSpawn:
+  x: 19
+  y: 56
+  z: -57
+  world: "world"
+playerFrontSpawn:
+  x: 19
+  y: 56
+  z: -77
+  world: "world"
+min-bet: 500
+max-bet: 2000000
+time-to-answer: 10
+
+
